@@ -1,5 +1,6 @@
 # windows-desktop-switcher-Asamai-version
-My custom version of windows desktop switcher, changes in the config file:
+My custom config file of [windows desktop switcher](https://github.com/pmb6tz/windows-desktop-switcher). 
+Changes in the config file:
 
 ```
 SetCapsLockState, AlwaysOff
